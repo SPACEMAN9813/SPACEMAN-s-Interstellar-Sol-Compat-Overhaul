@@ -2,9 +2,9 @@
 
 Included Systems
 
-Hades (UGPS J072227.51−054031.2)
-&
-Anubis (PSR J0437−4715)
+-Hades (UGPS J072227.51−054031.2)
+
+-Anubis (PSR J0437−4715)
 
 Release 1 focuses entirely on CS, laying the foundation for accurate interstellar placement and long‑term expansion.
 
