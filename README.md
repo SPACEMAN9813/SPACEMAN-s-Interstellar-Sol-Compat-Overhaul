@@ -1,6 +1,4 @@
-”
-
-🚀 Current Release: 1.0
+**🚀 Current Release: 1.0**
 
 Included Systems
 
