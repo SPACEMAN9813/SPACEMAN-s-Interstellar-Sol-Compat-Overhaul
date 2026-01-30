@@ -34,7 +34,7 @@ ModuleManager
 
 **License & Credits**
 
-All original configuration work by Spaceman
+All original configuration work by SPACEMAN_9813
 
 Massive respect to the creator of Sol, BalisticFox and the interstellar mods this project supports
 
