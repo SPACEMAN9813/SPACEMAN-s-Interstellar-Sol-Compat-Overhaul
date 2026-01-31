@@ -6,9 +6,9 @@ Included Systems
 
 -Anubis (PSR J0437−4715)
 
-**Only supports real scale at the time, quarter will come in 2.0**
-
 Release 1 focuses entirely on CS, laying the foundation for accurate interstellar placement and long‑term expansion.
+
+**Only supports real scale at the time, quarter will come in 2.0**
 
 
 
