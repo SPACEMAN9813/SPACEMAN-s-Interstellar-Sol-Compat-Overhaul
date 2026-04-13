@@ -54,4 +54,4 @@ If you enjoy this mod, consider supporting the original planet pack authors, thi
 
 This is only the beginning.
 
-The stars are truly further than they look, they just needed to be placed correctly.
+Many other planet packs will soon see support
